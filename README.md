@@ -74,3 +74,21 @@ O workflow implementa as seguintes etapas:
 📜 Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+
+---
+
+## 🌐 Portfólio Online
+
+🎯 [portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)
+
+---
+
+## 📫 Contato
+
+- Recife, PE - Brasil  
+- Telefone: +55 81 99712 9140<br>
+- Telegram: @jcarlossc
+- 📧 Email: [jcarlossc1977@gmail.com](mailto:jcarlossc1977@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/carlos-da-costa-669252149/](https://www.linkedin.com/in/carlos-da-costa-669252149/)  
+- 🐙 GitHub: [github.com/jcarlossc](https://github.com/jcarlossc)  
+- 📊 Kaggle: [kaggle.com/jcarlossc](https://www.kaggle.com/jcarlossc/code)

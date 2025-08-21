@@ -8,23 +8,17 @@ O fluxo automatiza etapas comuns de pré-processamento de dados, permitindo gera
 
 ## ⚙️ Funcionalidades do Fluxo
 O workflow implementa as seguintes etapas:
-
 1. **Carregamento do CSV original**  
    - Leitura do arquivo `dados_brutos.csv`.
-
 2. **Limpeza de substrings desnecessárias**  
    - Padronização e remoção de caracteres ou termos redundantes.
-
 3. **Transformação de colunas de Data e Hora**  
    - Conversão de `string` para o tipo **Date&Time** das colunas Data e Hora.
-
 4. **Redução de Dimensionalidade**  
    - Aplicação de redução de variáveis para manter apenas as mais relevantes.
-
 5. **Tratamento de valores ausentes**  
    - Substituição de valores nulos em colunas numéricas.  
    - Exclusão de registros com ausência de valores.
-
 6. **Exportação do CSV limpo**  
    - Geração do arquivo `dados_limpos.csv` pronto para análise.
 
@@ -32,21 +26,21 @@ O workflow implementa as seguintes etapas:
 
 ## 📂 Estrutura do Repositório
 
-├── projeto_knime/
-│ └── fluxo.knwf # Arquivo do workflow do KNIME
-├── dataset_original/
-│ └── dados_brutos.csv # CSV com dados brutos
-├── dataset_limpo/
-│ └── dados_limpos.csv # CSV gerado após o processamento
-├── imagem/
-│ └── diagrama_fluxo.png # (Opcional) Diagrama ilustrativo do fluxo
-├── README.md # Este arquivo
-└── LICENSE # Licença do projeto (ex: MIT)
+├── projeto_knime/<br>
+│ └── fluxo.knwf # Arquivo do workflow do KNIME<br>
+├── dataset_original/<br>
+│ └── dados_brutos.csv # CSV com dados brutos<br>
+├── dataset_limpo/<br>
+│ └── dados_limpos.csv # CSV gerado após o processamento<br>
+├── imagem/<br>
+│ └── diagrama_fluxo.png # (Opcional) Diagrama ilustrativo do fluxo<br>
+├── README.md # Este arquivo<br>
+└── LICENSE # Licença do projeto (ex: MIT)<br>
 
 ---
 
 ## Imagem do fluxo de limpeza
-<img href="imagem/diagrama_fluxo.png" alt="Imagem-fluxo-Knime" />
+<img href="imagem/acidentes_recife_2019_limpo.png" alt="Imagem-fluxo-Knime" />
 
 ---
 

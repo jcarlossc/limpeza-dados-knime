@@ -40,7 +40,7 @@ O workflow implementa as seguintes etapas:
 ---
 
 ## Imagem do fluxo de limpeza
-<img href="imagem/acidentes_recife_2019_limpo.png" alt="Imagem-fluxo-Knime" />
+<img src="imagem/acidentes_recife_2019_limpo.png" alt="Imagem-fluxo-Knime" />
 
 ---
 
